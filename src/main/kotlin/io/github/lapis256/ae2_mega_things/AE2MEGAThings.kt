@@ -24,8 +24,8 @@ import thedarkcolour.kotlinforforge.forge.MOD_BUS
 
 @Mod(AE2MEGAThings.MOD_ID)
 object AE2MEGAThings {
-    const val MOD_ID = "ae2_mega_things"
-    const val MOD_NAME = "AE2 MEGA Things"
+    const val MOD_ID = "ae2_gomi_cells"
+    const val MOD_NAME = "AE2 gomi cells"
 
     fun rl(path: String) = ResourceLocation(MOD_ID, path)
 
